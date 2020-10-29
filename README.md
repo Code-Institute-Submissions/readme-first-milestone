@@ -9,8 +9,3 @@
 
 
 
-01 - 29-10-2020 - First commit.
-02 - 29-10-2020 - Scaffholding HTML Style CSS.
-
-
-
