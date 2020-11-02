@@ -3974,7 +3974,7 @@ input[type=button].btn-block {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
-  background: #fd7e14#
+  background: #fd7e14
 }
 .navbar .container,
 .navbar .container-fluid,
@@ -5783,6 +5783,7 @@ a.close.disabled {
 .bs-popover-left, .bs-popover-auto[x-placement^=left] {
   margin-right: 0.5rem;
 }
+
 .bs-popover-left > .arrow, .bs-popover-auto[x-placement^=left] > .arrow {
   right: calc(-0.5rem - 1px);
   width: 0.5rem;
@@ -5843,6 +5844,7 @@ a.close.disabled {
     color: dark;
 }
 
+#slide-three-background-side-b,
 #slide-one-background-side-b {
     position: relative;
     float: right;
@@ -10476,6 +10478,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-size: cover;
 }
 
+.carousel-container {
+  width: 75%; margin: auto;
+}
 /* Need to find out how to set some margin on top and bottom of the experiences:
 
 .listbox-text {
