@@ -19,5 +19,7 @@
 | -------- | ---- | ---- | ---- |
 | FIX HTML Style CSS | 11-02-2020 - 12:29 | Fix |
 
-
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Modified HTML Style CSS | 11-03-2020 - 17:49 | Feature |
 
