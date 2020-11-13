@@ -5,7 +5,7 @@
 
 | Attivita'| Data | Tipo | Note |
 | -------- | ---- | ---- | ---- |
-| Scaffholding HTML Style CSS | 10-29-2020 | Feature |
+| Scaffolding HTML Style CSS | 10-29-2020 | Feature |
 
 | Attivita'| Data | Tipo | Note |
 | -------- | ---- | ---- | ---- |
@@ -23,3 +23,6 @@
 | -------- | ---- | ---- | ---- |
 | Modified HTML Style CSS | 11-03-2020 - 17:49 | Feature |
 
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Modified HTML Style CSS | 11-13-2020 - 11:21 | Feature |
