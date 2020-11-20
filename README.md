@@ -26,3 +26,7 @@
 | Attivita'| Data | Tipo | Note |
 | -------- | ---- | ---- | ---- |
 | Modified HTML Style CSS | 11-13-2020 - 11:21 | Feature |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Fix on feedback | 11-20-2020 - 22:52 | Fix |
