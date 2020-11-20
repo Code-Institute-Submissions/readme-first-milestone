@@ -3108,7 +3108,7 @@ header.masthead .masthead-heading {
     color: #fff;
     border: 7px solid #e9ecef;
     border-radius: 100%;
-    background-color: #fed136
+    background-color: #fed136;
 }
 
 .timeline > li .timeline-image h4 {
@@ -3325,7 +3325,7 @@ video {
 
 .carousel-container {
     width: 75%;
-    margin: auto
+    margin: auto;
 }
 
 :root {
@@ -6437,7 +6437,7 @@ header.masthead .masthead-heading {
     color: #fff;
     border: 7px solid #e9ecef;
     border-radius: 100%;
-    background-color: #fed136
+    background-color: #fed136;
 }
 
 .timeline > li .timeline-image h4 {
