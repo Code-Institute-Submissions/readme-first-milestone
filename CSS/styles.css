@@ -5971,6 +5971,7 @@ header.masthead .masthead-heading {
 .per-role {
     font-style: italic;
     color: #fed136;
+    font-weight: bold;
 }
 
 .per-sm {

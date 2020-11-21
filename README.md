@@ -70,3 +70,7 @@
 | Attivita'| Data | Tipo | Note |
 | -------- | ---- | ---- | ---- |
 | Fix HTML CSS | 11-21-2020 - 16:42 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Fix HTML CSS | 11-21-2020 - 18:10 | Fix |
