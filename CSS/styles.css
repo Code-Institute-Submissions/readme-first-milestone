@@ -5917,6 +5917,7 @@ header.masthead .masthead-heading {
     overflow: hidden;
 }
 
+.meet-team h1{
 .team-members-section h1 {
     text-transform: uppercase;
     font-size: 20px;
@@ -5931,7 +5932,7 @@ header.masthead .masthead-heading {
     margin-left: -75px;
 }
 
-.per {
+.persons {
     float: left;
     width: calc(100% / 3);
     overflow: hidden;
@@ -5941,11 +5942,10 @@ header.masthead .masthead-heading {
     height: 900px;
 }
 
-pe:hover {
+.persons:hover {
     background: #ddd;
 }
-
-.per.img {
+.persons.img {
     width: 120px;
     height: 120px;
 }
@@ -5981,10 +5981,10 @@ pe:hover {
     line-height: 30px;
 }
 
-@media screen and (max-width: 600px) {
-    .per {
-        width: 100%;
-    }
+@media screen and (max-width:600px) {
+ .persons {
+     width:100%;
+ }
 }
 
 .footer {
