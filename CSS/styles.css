@@ -5917,12 +5917,18 @@ header.masthead .masthead-heading {
     overflow: hidden;
 }
 
-.team-members-section h1{
+.team-members-section h1 {
     text-transform: uppercase;
     font-size: 20px;
     display: inline-block;
     border-bottom: 4px solid;
     padding-bottom: 10px;
+}
+
+.profile-pic {
+    max-height: 512px;
+    height: 512px;
+    margin-left: -75px;
 }
 
 .per {
@@ -5931,11 +5937,14 @@ header.masthead .masthead-heading {
     overflow: hidden;
     padding: 40px 0;
     transition: 0.4s;
+    max-height: 900px;
+    height: 900px;
 }
 
 pe:hover {
     background: #ddd;
 }
+
 .per.img {
     width: 120px;
     height: 120px;
@@ -5972,10 +5981,10 @@ pe:hover {
     line-height: 30px;
 }
 
-@media screen and (max-width:600px) {
- .per{
-     width:100%;
- }
+@media screen and (max-width: 600px) {
+    .per {
+        width: 100%;
+    }
 }
 
 .footer {
@@ -6003,6 +6012,34 @@ video {
 .iframe-video {
     width: 800px;
     height: 450px
+}
+
+@media (max-width: 1024px) {
+    .iframe-video {
+        width: 266px;
+        height: 150px
+    }
+
+    .hide-on-mobile {
+        display: none
+    }
+
+    .carousel {
+        height: 20rem
+    }
+
+    .video-games-picture {
+        height: 20rem;
+        min-height: 20rem
+    }
+
+    .carousel-caption {
+        bottom: 200px !important
+    }
+
+    .carousel-lead {
+        font-size: .9rem
+    }
 }
 
 @media (max-width: 768px) {
