@@ -5917,7 +5917,7 @@ header.masthead .masthead-heading {
     overflow: hidden;
 }
 
-.team-members-section h1{
+.meet-team h1{
     text-transform: uppercase;
     font-size: 20px;
     display: inline-block;
@@ -5925,7 +5925,7 @@ header.masthead .masthead-heading {
     padding-bottom: 10px;
 }
 
-.per {
+.persons {
     float: left;
     width: calc(100% / 3);
     overflow: hidden;
@@ -5933,10 +5933,10 @@ header.masthead .masthead-heading {
     transition: 0.4s;
 }
 
-pe:hover {
+.persons:hover {
     background: #ddd;
 }
-.per.img {
+.persons.img {
     width: 120px;
     height: 120px;
 }
