@@ -3043,13 +3043,13 @@ header.masthead .masthead-heading {
     margin-botto: 2rem
 }
 
-.timeline {
+.about-us {
     position: relative;
     padding: 0;
     list-style: none
 }
 
-.timeline:before {
+.about-us:before {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -3060,22 +3060,22 @@ header.masthead .masthead-heading {
     background-color: #e9ecef
 }
 
-.timeline > li {
+.about-us > li {
     position: relative;
     min-height: 50px;
     margin-bottom: 50px
 }
 
-.timeline > li:after, .timeline > li:before {
+.about-us > li:after, .about-us > li:before {
     display: table;
     content: " "
 }
 
-.timeline > li:after {
+.about-us > li:after {
     clear: both
 }
 
-.timeline > li .timeline-panel {
+.about-us > li .about-us-panel {
     position: relative;
     float: right;
     width: 100%;
@@ -3083,21 +3083,21 @@ header.masthead .masthead-heading {
     text-align: left
 }
 
-.timeline > li .timeline-panel:before {
+.about-us > li .about-us-panel:before {
     right: auto;
     left: -15px;
     border-right-width: 15px;
     border-left-width: 0
 }
 
-.timeline > li .timeline-panel:after {
+.about-us > li .about-us-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0
 }
 
-.timeline > li .timeline-image {
+.about-us > li .about-us-image {
     position: absolute;
     z-index: 100;
     left: 0;
@@ -3112,80 +3112,80 @@ header.masthead .masthead-heading {
     background-image: url(../img/escape-game.jpg);
 }
 
-.timeline > li .timeline-image h4 {
+.about-us > li .about-us-image h4 {
     font-size: 10px;
     line-height: 14px;
     margin-top: 12px
 }
 
-.timeline > li.timeline-inverted > .timeline-panel {
+.about-us > li.about-us-inverted > .about-us-panel {
     float: right;
     padding: 0 20px 0 100px;
     text-align: left
 }
 
-.timeline > li.timeline-inverted > .timeline-panel:before {
+.about-us > li.about-us-inverted > .about-us-panel:before {
     right: auto;
     left: -15px;
     border-right-width: 15px;
     border-left-width: 0
 }
 
-.timeline > li.timeline-inverted > .timeline-panel:after {
+.about-us > li.about-us-inverted > .about-us-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0
 }
 
-.timeline > li:last-child {
+.about-us > li:last-child {
     margin-bottom: 0
 }
 
-.timeline .timeline-heading h4 {
+.about-us .about-us-heading h4 {
     margin-top: 0;
     color: inherit
 }
 
-.timeline .timeline-heading h4.subheading {
+.about-us .about-us-heading h4.subheading {
     text-transform: none
 }
 
-.timeline .timeline-body > p, .timeline .timeline-body > ul {
+.about-us .about-us-body > p, .about-us .about-us-body > ul {
     margin-bottom: 0
 }
 
 @media (min-width: 768px) {
-    .timeline:before {
+    .about-us:before {
         left: 50%
     }
 
-    .timeline > li {
+    .about-us > li {
         min-height: 100px;
         margin-bottom: 100px
     }
 
-    .timeline > li .timeline-panel {
+    .about-us > li .about-us-panel {
         float: left;
         width: 41%;
         padding: 0 20px 20px 30px;
         text-align: right
     }
 
-    .timeline > li .timeline-image {
+    .about-us > li .about-us-image {
         left: 50%;
         width: 100px;
         height: 100px;
         margin-left: -50px
     }
 
-    .timeline > li .timeline-image h4 {
+    .about-us > li .about-us-image h4 {
         font-size: 13px;
         line-height: 18px;
         margin-top: 16px
     }
 
-    .timeline > li.timeline-inverted > .timeline-panel {
+    .about-us > li.about-us-inverted > .about-us-panel {
         float: right;
         padding: 0 30px 20px 20px;
         text-align: left
@@ -3193,51 +3193,51 @@ header.masthead .masthead-heading {
 }
 
 @media (min-width: 992px) {
-    .timeline > li {
+    .about-us > li {
         min-height: 150px
     }
 
-    .timeline > li .timeline-panel {
+    .about-us > li .about-us-panel {
         padding: 0 20px 20px
     }
 
-    .timeline > li .timeline-image {
+    .about-us > li .about-us-image {
         width: 150px;
         height: 150px;
         margin-left: -75px
     }
 
-    .timeline > li .timeline-image h4 {
+    .about-us > li .about-us-image h4 {
         font-size: 18px;
         line-height: 26px;
         margin-top: 30px
     }
 
-    .timeline > li.timeline-inverted > .timeline-panel {
+    .about-us > li.about-us-inverted > .about-us-panel {
         padding: 0 20px 20px
     }
 }
 
 @media (min-width: 1200px) {
-    .timeline > li {
+    .about-us > li {
         min-height: 170px
     }
 
-    .timeline > li .timeline-panel {
+    .about-us > li .about-us-panel {
         padding: 0 20px 20px 100px
     }
 
-    .timeline > li .timeline-image {
+    .about-us > li .about-us-image {
         width: 170px;
         height: 170px;
         margin-left: -85px
     }
 
-    .timeline > li .timeline-image h4 {
+    .about-us > li .about-us-image h4 {
         margin-top: 40px
     }
 
-    .timeline > li.timeline-inverted > .timeline-panel {
+    .about-us > li.about-us-inverted > .about-us-panel {
         padding: 0 100px 20px 20px
     }
 }
