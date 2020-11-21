@@ -30,3 +30,7 @@
 | Attivita'| Data | Tipo | Note |
 | -------- | ---- | ---- | ---- |
 | Fix on feedback | 11-20-2020 - 22:52 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Fix on feedback | 11-21-2020 - 12:30 | Fix |
