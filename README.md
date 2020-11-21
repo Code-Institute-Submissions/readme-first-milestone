@@ -41,4 +41,28 @@
 
 | Attivita'| Data | Tipo | Note |
 | -------- | ---- | ---- | ---- |
-| Fix Footer | 11-21-2020 - 16:05 | Fix |
+| Fix Footer | 11-21-2020 - 13:45 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Added logo | 11-21-2020 - 14:05 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Added Meet Team section | 11-21-2020 - 14:30 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Fix Meet Team | 11-21-2020 - 14:55 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Fix HTML CSS | 11-21-2020 - 15:30 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Fix HTML CSS | 11-21-2020 - 16:05 | Fix |
+
+| Attivita'| Data | Tipo | Note |
+| -------- | ---- | ---- | ---- |
+| Added final logo | 11-21-2020 - 16:42 | Fix |
