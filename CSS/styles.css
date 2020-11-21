@@ -5918,7 +5918,6 @@ header.masthead .masthead-heading {
 }
 
 .meet-team h1{
-.team-members-section h1 {
     text-transform: uppercase;
     font-size: 20px;
     display: inline-block;
@@ -5938,8 +5937,8 @@ header.masthead .masthead-heading {
     overflow: hidden;
     padding: 40px 0;
     transition: 0.4s;
-    max-height: 900px;
-    height: 900px;
+    max-height: 683px;
+    height: 683px;
 }
 
 .persons:hover {
